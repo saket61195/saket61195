@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saket61195
-- 👀 I’m interested in Python and c++ and Ethical Hacking
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on Python related project or any Cyber Security
+- 👀 I’m interested in ....
+- 🌱 I’m currently ....
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
